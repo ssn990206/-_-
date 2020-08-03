@@ -301,6 +301,9 @@ ul li{
         flex-wrap: wrap;
         width: 100%;
     }
+    .category{
+        margin: 0 auto;
+    }
     .contact{
         width: 100%;
     }
